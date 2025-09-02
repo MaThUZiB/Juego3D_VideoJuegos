@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Zoom",
+    "maps": [
+        {
+            "name": "CameraControls",
+            "id": "bc64739b-53d5-4b88-b450-c8ca8fd46434",
+            "actions": [
+                {
+                    "name": "MouseZoom",
+                    "type": "Value",
+                    "id": "fb6c8f28-2108-470d-a665-0573f0587bb0",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "951b0fe2-ae0b-45ca-acca-cf000fb376b1",
+                    "path": "<Mouse>/scroll",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MouseZoom",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
