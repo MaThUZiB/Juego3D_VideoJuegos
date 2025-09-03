@@ -4,4 +4,6 @@
 
 --- Librerias Utilizadas --- 
 - Ghost character Free (Unity Assets Store)
-- CineMachine (Proyect Library Unity)
+- CineMachine (Unity Library)
+- ProBuilder (Unity Library)
+- Made Ground Materials (Unity Assets Store)
