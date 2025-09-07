@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f33f7c14885b5e74d8e30c86e3fb3593
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176840
+  packageName: Fantasy house
+  packageVersion: 1.0
+  assetPath: Assets/Fantasy house/Scenes/SampleSceneSettings.lighting
+  uploadId: 384641
